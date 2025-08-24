@@ -32,35 +32,27 @@ Each model:
 
 ```bash
 pip install pandas matplotlib scikit-learn
-
-
 Run the script:
+
+bash
+Copy
+Edit
 python climate_future_regression.py
-
-
-
 📈 Output
-
 The script:
 
 Displays future predictions in the terminal
 
 Plots line graphs showing how temperature is expected to change based on CO₂ trends
 
-
 🤔 What is Temperature Anomaly?
-
 Temperature Anomaly means how much the global temperature deviates from a long-term average baseline (usually the 1951–1980 average).
 Positive values = warmer than average
 Negative values = cooler than average
 
-
 📌 Purpose
-
 To highlight the potential future effects of rising CO₂ emissions using data-driven predictions. Useful for students, researchers, and climate activists.
 
-
 👤 Author
-
 Okasha Shehbaz Mueed
-Cyber Security | Machine Learning | Environmental Enthusiast
+Python | Machine Learning | Environmental Enthusiast
